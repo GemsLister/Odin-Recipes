@@ -1,0 +1,17 @@
+body {
+    margin: 5%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+    font-style: arial;
+    flex-direction: column;
+    font-size: 100%;
+}
+img {
+    display: fix;
+    height: 50vh;
+    width: 50vh;
+    border-radius: 5vh;
+}
