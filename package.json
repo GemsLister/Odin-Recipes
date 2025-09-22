@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "homepage": "https://github.com/GemsLister/Odin-Recipes.git",
+    "homepage": "https://gemslister.github.io/Odin-Recipes/",
     "gh-pages": "^6.3.0"
   },
   "scripts": {
