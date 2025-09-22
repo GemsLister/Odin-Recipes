@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(56, 12, 47);
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    margin-left: 40%;
+    margin-top: 50px;
+}
+
+.tit{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 45%;
+}
+
+.dis{
+    color: white;
+    margin-left: 35%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ing{
+    color: white;
+    margin-left: 45%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.oil{
+    color: white;
+    margin-left: 35%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.step{
+    color: white;
+    margin-left: 48%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tep{
+    color: white;
+    margin-left: 35%;
+    font-family: Arial, Helvetica, sans-serif;
+}
